@@ -20,7 +20,8 @@
       "mrp": 249,
       "offer": "off 40%",
       "price": 149,
-      "rating": "4"
+      "rating": "4",
+      "quantity": 1
     },
     {
       "id": 2,
@@ -42,7 +43,8 @@
       "mrp": 945,
       "offer": "off 22%",
       "price": 733,
-      "rating": "5"
+      "rating": "5",
+      "quantity": 1
     },
     {
       "id": 3,
@@ -64,7 +66,8 @@
       "mrp": 599,
       "offer": "off 20%",
       "price": 479,
-      "rating": "1"
+      "rating": "1",
+      "quantity": 1
     },
     {
       "id": 4,
@@ -86,7 +89,8 @@
       "mrp": 447,
       "offer": "off 26%",
       "price": 337,
-      "rating": "3"
+      "rating": "3",
+      "quantity": 1
     },
     {
       "id": 5,
@@ -108,7 +112,8 @@
       "mrp": 297,
       "offer": "off 10%",
       "price": 267,
-      "rating": "5"
+      "rating": "5",
+      "quantity": 1
     },
 
     {
@@ -131,7 +136,8 @@
       "mrp": 300,
       "offer": "off 10%",
       "price": 270,
-      "rating": "5"
+      "rating": "5",
+      "quantity": 1
     },
     {
       "id": 7,
@@ -153,7 +159,8 @@
       "mrp": 276,
       "offer": "off 20%",
       "price": 221,
-      "rating": "5"
+      "rating": "5",
+      "quantity": 1
     },
 
     {
@@ -178,7 +185,8 @@
       "mrp": 399,
       "offer": "off 25%",
       "price": 299,
-      "rating": "5"
+      "rating": "5",
+      "quantity": 1
     },
     {
       "id": 9,
@@ -202,7 +210,8 @@
       "mrp": 799,
       "offer": "off 38%",
       "price": 499,
-      "rating": "4"
+      "rating": "4",
+      "quantity": 1
     },
     {
       "id": 10,
@@ -226,7 +235,8 @@
       "mrp": 299,
       "offer": "off 45%",
       "price": "165",
-      "rating": "5"
+      "rating": "5",
+      "quantity": 1
     },
     {
       "id": 11,
@@ -250,7 +260,8 @@
       "mrp": 1299,
       "offer": "off 77%",
       "price": 299,
-      "rating": "5"
+      "rating": "5",
+      "quantity": 1
     },
     {
       "id": 12,
@@ -274,7 +285,8 @@
       "mrp": 999,
       "offer": "off 24%",
       "price": 759,
-      "rating": "3"
+      "rating": "3",
+      "quantity": 1
     },
     {
       "id": 13,
@@ -298,7 +310,8 @@
       "mrp": 549,
       "offer": "off 27%",
       "price": 399,
-      "rating": "5"
+      "rating": "5",
+      "quantity": 1
     },
     {
       "id": 14,
@@ -322,7 +335,8 @@
       "mrp": 599,
       "offer": "off 21%",
       "price": 475,
-      "rating": "4"
+      "rating": "4",
+      "quantity": 1
     },
     {
       "id": 15,
@@ -346,7 +360,8 @@
       "mrp": 299,
       "offer": "off 57%",
       "price": 130,
-      "rating": "4"
+      "rating": "4",
+      "quantity": 1
     },
     {
       "id": 16,
@@ -370,7 +385,8 @@
       "mrp": 899,
       "offer": "off 64%",
       "price": 326,
-      "rating": "5"
+      "rating": "5",
+      "quantity": 1
     },
     {
       "id": 17,
@@ -394,7 +410,8 @@
       "mrp": 549,
       "offer": "off 47%",
       "price": 289,
-      "rating": "3"
+      "rating": "3",
+      "quantity": 1
     },
     {
       "id": 18,
@@ -418,7 +435,8 @@
       "mrp": 999,
       "offer": "off 75%",
       "price": 249,
-      "rating": "4"
+      "rating": "4",
+      "quantity": 1
     },
     {
       "id": 19,
@@ -442,7 +460,8 @@
       "mrp": 1999,
       "offer": "off 55%",
       "price": 899,
-      "rating": "2"
+      "rating": "2",
+      "quantity": 1
     },
     {
       "id": 20,
@@ -466,7 +485,8 @@
       "mrp": 99,
       "offer": "off 30%",
       "price": 69,
-      "rating": "5"
+      "rating": "5",
+      "quantity": 1
     },
     {
       "id": 21,
@@ -490,7 +510,8 @@
       "mrp": 55,
       "offer": "off 5%",
       "price": 52,
-      "rating": "3"
+      "rating": "3",
+      "quantity": 1
     },
     {
       "id": 22,
@@ -514,7 +535,8 @@
       "mrp": 199,
       "offer": "off 50%",
       "price": 79,
-      "rating": "5"
+      "rating": "5",
+      "quantity": 1
     },
     {
       "id": 23,
@@ -538,7 +560,8 @@
       "mrp": 299,
       "offer": "off 50%",
       "price": 149,
-      "rating": "5"
+      "rating": "5",
+      "quantity": 1
     },
     {
       "id": 24,
@@ -562,7 +585,8 @@
       "mrp": 149,
       "offer": "off 30%",
       "price": 101,
-      "rating": "3"
+      "rating": "3",
+      "quantity": 1
     },
     {
       "id": 25,
@@ -586,7 +610,8 @@
       "mrp": 179,
       "offer": "off 51%",
       "price": 87,
-      "rating": "3"
+      "rating": "3",
+      "quantity": 1
     },
     {
       "id": 26,
@@ -610,7 +635,8 @@
       "mrp": 285,
       "offer": "off 50%",
       "price": 142,
-      "rating": "4"
+      "rating": "4",
+      "quantity": 1
     },
     {
       "id": 27,
@@ -634,7 +660,8 @@
       "mrp": 449,
       "offer": "off 32%",
       "price": 304,
-      "rating": "5"
+      "rating": "5",
+      "quantity": 1
     },
     {
       "id": 28,
@@ -658,7 +685,8 @@
       "mrp": 550,
       "offer": "off 65%",
       "price": 190,
-      "rating": "4"
+      "rating": "4",
+      "quantity": 1
     },
     {
       "id": 29,
@@ -682,7 +710,8 @@
       "mrp": 750,
       "offer": "off 73%",
       "price": 199,
-      "rating": "2"
+      "rating": "2",
+      "quantity": 1
     },
     {
       "id": 30,
@@ -706,7 +735,8 @@
       "mrp": 289,
       "offer": "off 50%",
       "price": 140,
-      "rating": "5"
+      "rating": "5",
+      "quantity": 1
     },
     {
       "id": 31,
@@ -730,7 +760,8 @@
       "mrp": 899,
       "offer": "off 67%",
       "price": 299,
-      "rating": "3"
+      "rating": "3",
+      "quantity": 1
     },
     {
       "id": 32,
@@ -754,7 +785,8 @@
       "mrp": 599,
       "offer": "off 53%",
       "price": 279,
-      "rating": "5"
+      "rating": "5",
+      "quantity": 1
     },
     {
       "id": 33,
@@ -778,7 +810,8 @@
       "mrp": 299,
       "offer": "off 39%",
       "price": 183,
-      "rating": "4"
+      "rating": "4",
+      "quantity": 1
     },
     {
       "id": 34,
@@ -802,7 +835,8 @@
       "mrp": 999,
       "offer": "off 71%",
       "price": 289,
-      "rating": "5"
+      "rating": "5",
+      "quantity": 1
     },
     {
       "id": 35,
@@ -826,7 +860,8 @@
       "mrp": 1299,
       "offer": "off 62%",
       "price": 499,
-      "rating": "5"
+      "rating": "5",
+      "quantity": 1
     },
     {
       "id": 36,
@@ -850,7 +885,8 @@
       "mrp": 495,
       "offer": "off 61%",
       "price": 195,
-      "rating": "2"
+      "rating": "2",
+      "quantity": 1
     },
     {
       "id": 37,
@@ -874,7 +910,8 @@
       "mrp": 499,
       "offer": "off 34%",
       "price": 329,
-      "rating": "2"
+      "rating": "2",
+      "quantity": 1
     },
     {
       "id": 38,
@@ -898,7 +935,8 @@
       "mrp": 1500,
       "offer": "off 87%",
       "price": 195,
-      "rating": "4"
+      "rating": "4",
+      "quantity": 1
     },
     {
       "id": 39,
@@ -922,7 +960,8 @@
       "mrp": 982,
       "offer": "off 29%",
       "price": 698,
-      "rating": "4"
+      "rating": "4",
+      "quantity": 1
     },
     {
       "id": 40,
@@ -946,7 +985,8 @@
       "mrp": 765,
       "offer": "off 26%",
       "price": 564,
-      "rating": "5"
+      "rating": "5",
+      "quantity": 1
     },
     {
       "id": 41,
@@ -970,7 +1010,8 @@
       "mrp": 1169,
       "offer": "off 23%",
       "price": 899,
-      "rating": "4"
+      "rating": "4",
+      "quantity": 1
     },
     {
       "id": 42,
@@ -994,7 +1035,8 @@
       "mrp": 1499,
       "offer": "off 50%",
       "price": 749,
-      "rating": "4"
+      "rating": "4",
+      "quantity": 1
     },
     {
       "id": 43,
@@ -1018,7 +1060,8 @@
       "mrp": 750,
       "offer": "off 75%",
       "price": 190,
-      "rating": "5"
+      "rating": "5",
+      "quantity": 1
     },
     {
       "id": 44,
@@ -1042,7 +1085,8 @@
       "mrp": 2999,
       "offer": "off 50%",
       "price": 1489,
-      "rating": "5"
+      "rating": "5",
+      "quantity": 1
     },
     {
       "id": 45,
@@ -1066,7 +1110,8 @@
       "mrp": 495,
       "offer": "off 63%",
       "price": 185,
-      "rating": "5"
+      "rating": "5",
+      "quantity": 1
     },
     {
       "id": 46,
@@ -1090,7 +1135,8 @@
       "mrp": 995,
       "offer": "off 44%",
       "price": 555,
-      "rating": "4"
+      "rating": "4",
+      "quantity": 1
     },
     {
       "id": 47,
@@ -1114,7 +1160,8 @@
       "mrp": 999,
       "offer": "off 65%",
       "price": 348,
-      "rating": "3"
+      "rating": "3",
+      "quantity": 1
     },
     {
       "id": 48,
@@ -1138,7 +1185,8 @@
       "mrp": 535,
       "offer": "off 27%",
       "price": 390,
-      "rating": "3"
+      "rating": "3",
+      "quantity": 1
     },
     {
       "id": 49,
@@ -1162,7 +1210,8 @@
       "mrp": 942,
       "offer": "off 42%",
       "price": 550,
-      "rating": "5"
+      "rating": "5",
+      "quantity": 1
     }
   ]
 }
